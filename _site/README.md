@@ -17,4 +17,4 @@ TheReviewIndex
 - Web site: [Review Aggregation and Summary Site for India - TheReviewIndex.com](https://thereviewindex.com)
 
 ### Template License
-Released under [MIT License](license.md).
+Released under [MIT License](https://opensource.org/licenses/MIT).
